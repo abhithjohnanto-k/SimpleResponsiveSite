@@ -1,0 +1,94 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ksrietdemosite.com" resolutions="1x,2x" timestamp="1498994799928">
+  <folder name="css">
+    <file name="site_global.css" crc="4287935363"/>
+    <file name="master_a-master.css" crc="3768936833" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="382284884" ref="index"/>
+    <file name="index.css" crc="29302127" ref="index"/>
+    <file name="nomq_index.css" crc="457755588" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="-mr--customer-preloader-v2.mulib" crc="72198757" seo="true" mt="1433044078000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db4.jpg" crc="4123178466" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="libbuild-min.jpg" crc="211055907" seo="true" ref="index"/>
+    <file name="mechbuild-min.jpg" crc="4185251867" seo="true" ref="index"/>
+    <file name="mechbuild-min_2x.jpg" crc="4129878760" seo="true" ref="index"/>
+    <file name="41-min.jpg" crc="48777335" seo="true" ref="index"/>
+    <file name="lang_2-min.jpg" crc="4026943380" seo="true" ref="index"/>
+    <file name="bus_1-min.jpg" crc="4039830827" seo="true" ref="index"/>
+    <file name="boyshostel-big.jpg" crc="333631097" seo="true" ref="index"/>
+    <file name="lib-1-min.jpg" crc="21959190" seo="true" ref="index"/>
+    <file name="conference_1-min.jpg" crc="3880395791" seo="true" ref="index"/>
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db4164x114.jpg" crc="4128965091" seo="true" ref="index"/>
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db494x66.jpg" crc="279806376" seo="true" ref="index"/>
+    <file name="libbuild-min1004x275.jpg" crc="4259981019" seo="true" ref="index"/>
+    <file name="mechbuild-min1006x647.jpg" crc="90648290" seo="true" ref="index"/>
+    <file name="mechbuild-min1006x647_2x.jpg" crc="4129878760" seo="true" ref="index"/>
+    <file name="41-min1004x275.jpg" crc="369461529" seo="true" ref="index"/>
+    <file name="lang_2-min691x460.jpg" crc="4026943380" seo="true" ref="index"/>
+    <file name="bus_1-min690x463.jpg" crc="4039830827" seo="true" ref="index"/>
+    <file name="boyshostel-big691x463.jpg" crc="4252135670" seo="true" ref="index"/>
+    <file name="lib-1-min650x432.jpg" crc="131599160" seo="true" ref="index"/>
+    <file name="conference_1-min650x432.jpg" crc="4104196040" seo="true" ref="index"/>
+    <file name="libbuild-min724x198.jpg" crc="150433174" seo="true" ref="index"/>
+    <file name="mechbuild-min720x463.jpg" crc="499102762" seo="true" ref="index"/>
+    <file name="mechbuild-min720x463_2x.jpg" crc="4176622048" seo="true" ref="index"/>
+    <file name="41-min724x198.jpg" crc="3817250327" seo="true" ref="index"/>
+    <file name="boyshostel-big721x483.jpg" crc="333631097" seo="true" ref="index"/>
+    <file name="lib-1-min721x479.jpg" crc="21959190" seo="true" ref="index"/>
+    <file name="conference_1-min721x479.jpg" crc="3880395791" seo="true" ref="index"/>
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db495x66.jpg" crc="3952671130" seo="true" ref="index"/>
+    <file name="libbuild-min557x153.jpg" crc="4271244404" seo="true" ref="index"/>
+    <file name="mechbuild-min553x356.jpg" crc="415864629" seo="true" ref="index"/>
+    <file name="mechbuild-min553x356_2x.jpg" crc="3966849119" seo="true" ref="index"/>
+    <file name="41-min557x153.jpg" crc="478187204" seo="true" ref="index"/>
+    <file name="lang_2-min552x367.jpg" crc="462220306" seo="true" ref="index"/>
+    <file name="bus_1-min552x370.jpg" crc="464832310" seo="true" ref="index"/>
+    <file name="boyshostel-big551x369.jpg" crc="4212993221" seo="true" ref="index"/>
+    <file name="lib-1-min555x369.jpg" crc="4099669953" seo="true" ref="index"/>
+    <file name="conference_1-min555x369.jpg" crc="3948103881" seo="true" ref="index"/>
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db484x59.jpg" crc="4150907359" seo="true" ref="index"/>
+    <file name="libbuild-min406x112.jpg" crc="4092578377" seo="true" ref="index"/>
+    <file name="mechbuild-min404x260.jpg" crc="4233678103" seo="true" ref="index"/>
+    <file name="mechbuild-min404x260_2x.jpg" crc="3841510903" seo="true" ref="index"/>
+    <file name="41-min406x111.jpg" crc="3854869091" seo="true" ref="index"/>
+    <file name="lang_2-min403x268.jpg" crc="486595151" seo="true" ref="index"/>
+    <file name="bus_1-min403x270.jpg" crc="450483209" seo="true" ref="index"/>
+    <file name="boyshostel-big392x263.jpg" crc="4083862792" seo="true" ref="index"/>
+    <file name="lib-1-min405x269.jpg" crc="487321414" seo="true" ref="index"/>
+    <file name="conference_1-min405x269.jpg" crc="4017018540" seo="true" ref="index"/>
+    <file name="a68956_70a53c36d571ad21cf2b319457ff6db471x49.jpg" crc="69975651" seo="true" ref="index"/>
+    <file name="libbuild-min363x100.jpg" crc="3939700275" seo="true" ref="index"/>
+    <file name="mechbuild-min365x235.jpg" crc="384719459" seo="true" ref="index"/>
+    <file name="mechbuild-min365x235_2x.jpg" crc="307052360" seo="true" ref="index"/>
+    <file name="41-min367x101.jpg" crc="534750617" seo="true" ref="index"/>
+    <file name="boyshostel-big354x237.jpg" crc="3857862174" seo="true" ref="index"/>
+    <file name="libbuild-min309x85.jpg" crc="4005268148" seo="true" ref="index"/>
+    <file name="mechbuild-min311x200.jpg" crc="3998523091" seo="true" ref="index"/>
+    <file name="mechbuild-min311x200_2x.jpg" crc="3778956052" seo="true" ref="index"/>
+    <file name="41-min313x86.jpg" crc="199335047" seo="true" ref="index"/>
+    <file name="lang_2-min311x207.jpg" crc="389282796" seo="true" ref="index"/>
+    <file name="bus_1-min310x208.jpg" crc="6897470" seo="true" ref="index"/>
+    <file name="boyshostel-big302x203.jpg" crc="69762452" seo="true" ref="index"/>
+    <file name="lib-1-min312x208.jpg" crc="275445627" seo="true" ref="index"/>
+    <file name="conference_1-min312x208.jpg" crc="3778221526" seo="true" ref="index"/>
+    <file name="lang_2-min360x240.jpg" crc="496617808" seo="true" ref="index"/>
+    <file name="bus_1-min359x241.jpg" crc="3991724671" seo="true" ref="index"/>
+    <file name="lib-1-min359x239.jpg" crc="51857211" seo="true" ref="index"/>
+    <file name="conference_1-min359x239.jpg" crc="4181957175" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3903203311" seo="true" mt="1498994698900" redirect="true"/>
+</manifest>
