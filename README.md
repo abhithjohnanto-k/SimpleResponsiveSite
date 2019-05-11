@@ -6,3 +6,4 @@ Warm greetings. This is my First Simple Responsive website. I built it using Ado
 * Muse generates static websites giving users the freedom to host their sites with any hosting provider.
 
 ## Screenshots
+<img src ="https://github.com/abhithjohnanto-k/%20SimpleResponsiveSite/images/41-min367x101.jpg">
